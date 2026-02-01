@@ -1,4 +1,4 @@
-Classic Outlook VBA code to CC the Send On Behalf Of address (if any) on every mail. IMAP Accounts Only.
+Classic Outlook VBA code to CC the Send On Behalf Of address (if any) on every mail. IMAP/POP Accounts Only.
 
 RE: https://forums.slipstick.com/threads/102150-automatically-cc-the-send-on-behalf-of-account/
 
